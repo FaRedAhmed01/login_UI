@@ -1,6 +1,7 @@
 # login_ui
 
 login and signup screen
+Design Credit - https://dribbble.com/shots/5239966-Daily-UI-001
 
 ## Getting Started
 
